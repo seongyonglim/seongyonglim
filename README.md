@@ -1,5 +1,7 @@
 # Dev_Corgi
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongyonglim)](https://solved.ac/seongyonglim/)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongyonglim%2Fseongyonglim&count_bg=%2381C0CC&title_bg=%232BA5D8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # 💪Skills
